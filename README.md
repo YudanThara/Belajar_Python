@@ -25,6 +25,10 @@ Tujuan utamanya adalah untuk memahami konsep dasar seperti input/output, percaba
 - Validasi pilihan menu
 
 ---
+### 📸 Contoh Output
+
+Berikut contoh output dari kalkulator sederhana (terminal):
+![Contoh Output](Kalkulator_sederhana.png)
 
 ## 🛠 Cara Menjalankan
 
