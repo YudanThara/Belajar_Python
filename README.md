@@ -7,36 +7,21 @@ Tujuan utamanya adalah untuk memahami konsep dasar seperti input/output, percaba
 
 ## 📁 Isi Repo
 
-### Kalkulator Umur (Kalkulator_umur.py)
-*Penjelasan:* Program ini menghitung umur berdasarkan tanggal lahir yang dimasukkan pengguna.
-*Fitur:*
-- Menghitung umur hari
-- Menghitung umur bulan
-- Menghitung umur tahun
-- Total umur pengguna
+# Mini Project kalkulator
+Berikut adalah daftar mini project kalkulator dalam folder Mini_Project_Kalkulator:
 
-### Kalkulator Sederhana (Kalkulator_sederhana.py)
-*Penjelasan:* Kalkulator 2 angka menggunakan if/elif/else.
-*Mendukung operasi:*
-- Penjumlahan (+)
-- Pengurangan (−)
-- Perkalian (×)
-- Pembagian (/) — dengan pengecekan angka 0
-- Validasi pilihan menu
+1. Kalkulator Sederhana
+   Operasi: Penjumlahan, pengurangan, perkalian, pembagian
+
+2. Kalkulator Umur
+   Input: Tanggal lahir
+   Output: Umur dalam tahun, bulan, dan hari
+
+3. Kalkulator Suhu
+   Konversi antar suhu: Celcius, Reamur, Fahrenheit, dan Kelvin
 
 ---
 
-### 📸 Contoh Output
-
-Berikut contoh output dari kalkulator sederhana (terminal):
-![Contoh Output](Kalkulator_sederhana.png)
-
----
-
-## 🛠 Cara Menjalankan
-
-1. Pastikan Python sudah terinstall (python --version)
-2. Jalankan salah satu file dari terminal:
-
-```bash
-python Kalkulator_sederhana.py
+📌 Catatan
+Semua proyek berjalan via terminal/command line
+Akan terus ditambahkan mini project baru seiring belajar
