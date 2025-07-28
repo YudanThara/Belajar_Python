@@ -25,6 +25,7 @@ Tersedia opsi "Kembali" dan "Keluar"
 ---
 
 💻 Contoh Output
+![Contoh Output](MIni_project_kalkulator/Kalkulator_suhu/Screenshot_V1.png)
 
 ---
 
