@@ -10,7 +10,7 @@ Repositori ini berisi kumpulan proyek Python sederhana yang dibuat sebagai latih
 
 ---
 
-## 📁 Isi Repo
+# 📁 Isi Repo
 
 Mini Project kalkulator
 Berikut adalah daftar mini project kalkulator dalam folder Mini_Project_Kalkulator:
@@ -27,6 +27,7 @@ Berikut adalah daftar mini project kalkulator dalam folder Mini_Project_Kalkulat
 
 ---
 
-📌 Catatan
-Semua proyek berjalan via terminal/command line
-Akan terus ditambahkan mini project baru seiring belajar
+# 📌 Catatan
+
+- Semua proyek berjalan via terminal/command line
+- Akan terus ditambahkan mini project baru seiring belajar
