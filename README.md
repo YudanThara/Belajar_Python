@@ -28,7 +28,7 @@ Berikut adalah daftar mini project kalkulator dalam folder Mini_Project_Kalkulat
 - Konversi antar suhu: Celcius, Reamur, Fahrenheit, dan Kelvin
 
 4. Kalkulator konversi panjang
-- KOnversi antar panjang: km, m, cm, inch, feet, etc
+- Konversi antar panjang: km, m, cm, inch, feet, etc
 
 ---
 
