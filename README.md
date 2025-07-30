@@ -2,6 +2,8 @@
 
 Repositori ini berisi kumpulan proyek Python sederhana yang dibuat sebagai latihan pemrograman dasar.  
 
+---
+
 # 🎯 Tujuan
 
 - Melatih logika dan dasar bahasa Python
@@ -24,6 +26,9 @@ Berikut adalah daftar mini project kalkulator dalam folder Mini_Project_Kalkulat
 
 3. Kalkulator Suhu
 - Konversi antar suhu: Celcius, Reamur, Fahrenheit, dan Kelvin
+
+4. Kalkulator konversi panjang
+- KOnversi antar panjang: km, m, cm, inch, feet, etc
 
 ---
 
