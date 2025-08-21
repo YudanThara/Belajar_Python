@@ -8,6 +8,7 @@ Kalkulator Sederhana adalah program Python dasar untuk melakukan operasi matemat
 
 - kalkulator_sederhana_v1.py — Versi awal kalkulator tanpa perulangan (looping).
 - kalkulator_sederhana_v2.py — Versi dengan perulangan agar pengguna bisa melakukan kalkulasi berkali-kali tanpa keluar dari program.
+- kalkulator_sederhana_v3.py — Versi dengan fungsi agar kode lebih ringkas, dan try except agar tidak error saat salah input tipe data
 
 ---
 
