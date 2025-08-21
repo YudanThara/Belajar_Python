@@ -30,6 +30,11 @@ Kalkulator Sederhana v2:
 - Ditambahkan looping agar bisa menghitung berkali-kali
 - Menu keluar dari program
 
+Kalkulator Sederhana v3:
+- Semua fitur v2
+- Ditambahkan fungsi agar lebih ringkas
+- Ditambahkan try except untuk menangani error input data
+
 ---
 
 🔁 Catatan
